@@ -1,1 +1,3 @@
-# daroweb
+# Adamův ultimátní web
+
+Ahoj xd
