@@ -1,3 +1,4 @@
 # Adamův ultimátní web
 
-Ahoj xd
+součástí úkolu na IC.
+Feel free to steal :)
